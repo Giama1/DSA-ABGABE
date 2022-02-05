@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "q": "Welche Mannschaft wurde bisher am häufigsten Weltmeister?",
+        "o": ["Italien","Spanien","Brasilien","Portugal"],
+        "a": "Brasilien"
+    },
+    {
+        "id": "2",
+        "q": "Welche Mannschaft gewann die erste je ausgetragene Weltmeisterschaft?",
+        "o": ["Deutschland","Finnland","Griechenland","Uruguay"],
+        "a": "Uruguay"
+    },
+    {
+        "id": "3",
+        "q": "Welcher Spieler gilt als teuerster Transfer der Welt?",
+        "o": ["Ronaldo","Neymar","Suarez","Alaba"],
+        "a": "Neymar"
+    },
+    {
+        "id": "4",
+        "q": "Welcher Trainer konnte bisher die meisten Erfolge erzielen?",
+        "o": ["Antonio Conte","Jürgen Klopp","Sir Alex Ferguson","Jose Mourinho"],
+        "a": "Sir Alex Ferguson"
+    },
+        {
+        "id": "5",
+        "q": "Welches Stadion gilt als das größte der Welt?",
+        "o": ["Stadion Erster Mai","Wembley-Stadion","Delle Alpi","San Siro"],
+        "a": "Stadion Erster Mai"
+    },
+        {
+        "id": "6",
+        "q": "Welcher Fußballer gewann am öftesten den Titel Weltfußballer des Jahres?",
+        "o": ["Lionel Messi","Cristiano Ronaldo","Zinedine Zidan","Gianluigi Buffon"],
+        "a": "Lionel Messi"
+    },
+        {
+        "id": "7",
+        "q": "Welcher Nationalmannschaft gehört der jüngste je aufgelaufene Spieler an?",
+        "o": ["Argentinien mit Diego Armando Maradona","Frankreich mit Kylian Mbappe","Argentinien mit Lionel Messi","Italien mit Alessandro Del Piero"],
+        "a": "Argentinien mit Diego Armando Maradona"
+    },
+        {
+        "id": "8",
+        "q": "Welche Nationalmannschaft hat den Spieler mit den meisten Platzverweisen?",
+        "o": ["Kolumbien mit Gerardo Bedoya","Spanien mit Sergio Ramos","Italien mit Fabio Cannavaro","Portugal mit Pepe"],
+        "a": "Kolumbien mit Gerardo Bedoya"
+    },
+        {
+        "id": "9",
+        "q": "Welche europäische Mannschaft hat den teuersten Kader?",
+        "o": ["Manchester City","Paris Saint Germain","Manchester United","Real Madrid"],
+        "a": "Manchester City"
+    },
+        {
+        "id": "10",
+        "q": "Welcher Ex Spieler des DFB gilt als Rekordtorschuetze?",
+        "o": ["Miroslav Klose","Gerd Mueller","Mario Basler","Frank Beckenbauer"],
+        "a": "Miroslav Klose"
+    },
+        {
+        "id": "11",
+        "q": "Welche Mannschaft hat am häufigsten ein WM-Finale verloren?",
+        "o": ["Deutschland","Spanien","Brasilien","Portugal"],
+        "a": "Deutschland "
+    },
+        {
+        "id": "12",
+        "q": "Welcher Fußballtrainer verlor mit seinen Teams von 2002 bis 2011 kein Ligaheimspiel?",
+        "o": ["José Mourinho","Udo Lattek","Pep Guardiola","Juergen Klopp"],
+        "a": "José Mourinho"
+    },
+        {
+        "id": "13",
+        "q": "Der erfolgreichste Fußballclub Österreichs mit 32 Meistertiteln ist?",
+        "o": ["SK Rapid Wien","SK Rasant Salzburg","FC Salzburg","Wolfsberger AC"],
+        "a": "SK Rapid Wien"
+    },
+        {
+        "id": "14",
+        "q": "Welchen Fußballer nennt man den Kaiser?",
+        "o": ["Franz Beckenbauer","Gerd Müller","Rudi Völler","Hans-Peter Briegel"],
+        "a": "Franz Beckenbauer"
+    },
+        {
+        "id": "15",
+        "q": "In welchem Jahr wurden zum ersten Mal gelbe und rote Karten im Fußball eingesetzt?",
+        "o": ["1970","1955","1910","1923"],
+        "a": "1970"
+    }
+]

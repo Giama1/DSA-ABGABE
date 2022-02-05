@@ -1,0 +1,53 @@
+{
+    "SKILL_NAME": "Fussball Quiz",
+    "GREETING": [
+        "Ich werde dir 10 Fragen stellen. \n Versuche so viele wie möglich richtig zu beantworten. \n Sag Hilfe um die Regeln erklärt zu bekommen. Ansonsten sage ja zum Starten oder nein zum Abbrechen"
+    ],
+    "GREETING_REPROMPT": [
+        "Bist du bereit?"
+    ],
+    "FIRST_QUESTION": [
+        "Beginnen wir! Die erste Frage lautet: {}  Die Antwortmöglichkeiten sind: \n A: {} \n B: {} \n C: {} \n oder D: {}"
+    ],
+    "FIRST_QUESTION_REPROMPT": [
+        "Was ist deine Antwort? A, B, C oder D?"
+    ],
+    "CORRECT_ANSWER":[
+        "Richtig! Du bekommst 10 Punkte. "
+    ],
+    "ANSWER_REPROMPT":[
+        "Was ist deine Antwort? A, B, C oder D?"
+    ],
+    "INCORRECT_ANSWER":[
+        "Leider nein! Deine Antwort ist falsch. Die richtige Antwort lautet {}: {}. "
+    ],
+    "NEXT_QUESTION": [
+        "Deine nächste Frage lautet: {} Die Antwortmöglichkeiten sind: \n A: {},\n B: {},\n C: {} \n oder D: {}"
+    ],
+    "QUIZ_ENDED": [
+        "Damit sind wir am Ende angekommen. \n Du hast {} Fragen von 10 richtig beantwortet und {} Punkte von 100 möglichen Punkten erreicht.\n Bis zum nächsten Mal."
+    ],
+    "NO_RESPONSE": [
+      "Okay, komm wieder, wenn du spielen willst."
+    ],
+    "QUIZ_IN_PROGRESS": [
+        "Die Antwort ist leider ungültig. Bitte antworte mit A, B, C oder D. "
+    ],
+    "HELP": [
+      "Du bekommst zu jeder Frage vier Antwortmöglichkeiten gestellt. Wähle eine passende Antwort aus, indem du den davorstehenden Buchstaben oder die korrekte Antwort sagst. Für jede richtige Antwort bekommst du zehn Punkte.\n Sage Ja, um das Spiel nun zu starten. \n Viel Glück"
+    ],
+    "HELP_REPROMPT": [
+      "Du bekommst zu jeder Frage vier Antwortmöglichkeiten gestellt. Wähle eine passende Antwort aus, indem du den davorstehenden Buchstaben oder die korrekte Antwort sagst. Für jede richtige Antwort bekommst du zehn Punkte.\n Sage Ja, um das Spiel nun zu starten. \n Viel Glück"
+    ],
+    "FALLBACK": [
+      "Tut mir leid, ich kann dir nicht helfen."
+    ],
+    "FALLBACK_REPROMPT": [
+      "Tut mir leid, ich kann dir nicht helfen."
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Auf Wiedersehen!"
+    ],
+    "ERROR": "Ich habe es nicht verstanden, kannst du es bitte wiederholen?",
+    "ERROR_REPROMPT": "Kannst du es bitte wiederholen?"
+}

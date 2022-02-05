@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "This is the text Alexa speaks. Go to the Alexa app to see the card!"
+    },
+    "card": {
+      "type": "Simple",
+      "title": "This is the Title of the Card",
+      "content": "This is the card content. This card just has plain text content.\r\nThe content is formated with line breaks to improve readability."
+    }
+  }
+}

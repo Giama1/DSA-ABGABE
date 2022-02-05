@@ -1,0 +1,539 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "anpfiff spiel",
+      "intents": [
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AnswerIntent",
+          "slots": [
+            {
+              "name": "answer",
+              "type": "answer_slot"
+            }
+          ],
+          "samples": [
+            "die Antwort ist {answer} ",
+            "meine Antwort ist {answer}",
+            "die Antwort lautet {answer}",
+            "{answer} ist meine antwort",
+            "{answer}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "1923"
+              }
+            },
+            {
+              "name": {
+                "value": "1910"
+              }
+            },
+            {
+              "name": {
+                "value": "1955"
+              }
+            },
+            {
+              "name": {
+                "value": "Hans-Peter Briegel",
+                "synonyms": [
+                  "briegel",
+                  "hans peter",
+                  "peter",
+                  "hans "
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Rudi Voeller",
+                "synonyms": [
+                  "voeller",
+                  "rudi"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Wolfsberger AC",
+                "synonyms": [
+                  "wolfsberger"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "FC Salzburg"
+              }
+            },
+            {
+              "name": {
+                "value": "SK Rasant Salzburg",
+                "synonyms": [
+                  "rasant salzburg"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Pep Guardiola",
+                "synonyms": [
+                  "guardiola",
+                  "pep"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Udo Lattek",
+                "synonyms": [
+                  "lattek",
+                  "udo"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Frank Beckenbauer",
+                "synonyms": [
+                  "beckenbauer",
+                  "frank"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Mario Basler",
+                "synonyms": [
+                  "mario",
+                  "basler"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Gerd Mueller",
+                "synonyms": [
+                  "gerd",
+                  "mueller"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Real Madrid",
+                "synonyms": [
+                  "die königlichen",
+                  "madrid"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Manchester United",
+                "synonyms": [
+                  "united",
+                  "manu"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Paris Saint Germain",
+                "synonyms": [
+                  "paris",
+                  "psg"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "portugal mit pepe",
+                "synonyms": [
+                  "animal",
+                  "the animal",
+                  "pepe",
+                  "portugal"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "italien mit fabio cannavaro",
+                "synonyms": [
+                  "cannavaro",
+                  "fabio",
+                  "italien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "spanien mit sergio ramos",
+                "synonyms": [
+                  "ramos",
+                  "sergio",
+                  "spanien "
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "italien mit allesandro del piero",
+                "synonyms": [
+                  "alex del piero",
+                  "alex",
+                  "del piero",
+                  "allesandro",
+                  "italien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "argentinien mit lionel messi",
+                "synonyms": [
+                  "messi",
+                  "lionel ",
+                  "argentinien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "frankreich mit kylian mbappe",
+                "synonyms": [
+                  "mbappe",
+                  "kylian ",
+                  "frankreich"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "kylian mbappe",
+                "synonyms": [
+                  "mbappe",
+                  "kylian"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "gianluigi buffon",
+                "synonyms": [
+                  "gianluigi",
+                  "buffon"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "zinedine zidane",
+                "synonyms": [
+                  "zizu",
+                  "zidane",
+                  "zinedine"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "cristiano ronaldo",
+                "synonyms": [
+                  "cr7",
+                  "cristiano",
+                  "ronaldo"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "san siro"
+              }
+            },
+            {
+              "name": {
+                "value": "delle alpi"
+              }
+            },
+            {
+              "name": {
+                "value": "wembley stadion",
+                "synonyms": [
+                  "wembley"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "stadion erster mai",
+                "synonyms": [
+                  "first of may"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "juergen klopp",
+                "synonyms": [
+                  "kloppo",
+                  "klopp"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "antonio conte",
+                "synonyms": [
+                  "conte",
+                  "antonio"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "alaba"
+              }
+            },
+            {
+              "name": {
+                "value": "suarez"
+              }
+            },
+            {
+              "name": {
+                "value": "griechenland"
+              }
+            },
+            {
+              "name": {
+                "value": "finnland"
+              }
+            },
+            {
+              "name": {
+                "value": "portugal"
+              }
+            },
+            {
+              "name": {
+                "value": "spanien"
+              }
+            },
+            {
+              "name": {
+                "value": "italien"
+              }
+            },
+            {
+              "name": {
+                "value": "1970"
+              }
+            },
+            {
+              "name": {
+                "value": "Franz Beckenbauer",
+                "synonyms": [
+                  "Beckenbauer",
+                  "Franz"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "SK Rapid Wien",
+                "synonyms": [
+                  "Wien",
+                  "Rapid Wien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "José Mourinho",
+                "synonyms": [
+                  "José ",
+                  "Mourinho",
+                  "Mou"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Deutschland"
+              }
+            },
+            {
+              "name": {
+                "value": "D",
+                "synonyms": [
+                  "d",
+                  "d"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "C",
+                "synonyms": [
+                  "d",
+                  "c"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "B",
+                "synonyms": [
+                  "b",
+                  "b"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "A",
+                "synonyms": [
+                  "a",
+                  "a"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Brasilien",
+                "synonyms": [
+                  "Brasil"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Uruguay",
+                "synonyms": [
+                  "Uruguay"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Neymar",
+                "synonyms": [
+                  "Neymar"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Sir Alex Ferguson",
+                "synonyms": [
+                  "Ferguson",
+                  "Alex Ferguson"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "1st of May Stadium",
+                "synonyms": [
+                  "1st of May"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Lionel Messi",
+                "synonyms": [
+                  "messi",
+                  "Lionel",
+                  "Messi"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Argentinien mit Diego Armando Maradona",
+                "synonyms": [
+                  "Diego Armando Maradona",
+                  "Maradona",
+                  "Argentinien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Kolumbien mit Gerardo Bedoya",
+                "synonyms": [
+                  "Bedoya",
+                  "Gerardo Bedoya",
+                  "Kolumbien"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Manchester City",
+                "synonyms": [
+                  "City"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Miroslav Klose",
+                "synonyms": [
+                  "Klose"
+                ]
+              }
+            }
+          ],
+          "name": "answer_slot"
+        }
+      ],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "19"
+}
